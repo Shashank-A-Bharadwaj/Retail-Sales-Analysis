@@ -19,7 +19,7 @@ The objective is to convert raw transactional data into **actionable business in
 - Seaborn
 
 ### Key Insights
-## 📈 Analysis Performed
+## Analysis Performed
 
 ### Top-Selling Categories
 - Aggregated sales data to identify categories contributing the highest revenue.
@@ -40,4 +40,4 @@ The objective is to convert raw transactional data into **actionable business in
 - Implement region-specific strategies based on category demand
 
 ## Project Walkthrough
-**LinkedIn Post:** **
+**LinkedIn Post:**https://www.linkedin.com/posts/shashank-a-bharadwaj-ab6a5b384_dataanalytics-python-datavisualization-activity-7432460113241870336-qbTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF7XHWoBPYj3M74djTvxby2SDNG1wZHajqA**
